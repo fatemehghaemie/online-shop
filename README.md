@@ -64,3 +64,6 @@ Thumbs.db
 ## Author
 
 Developed as a Software Design course project.
+
+
+command for Run is : java -ea -cp target\classes org.example.Main 
